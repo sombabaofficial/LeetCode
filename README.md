@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sombabaofficial/LeetCode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/sombabaofficial/LeetCode/tree/master/0016-3sum-closest) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/sombabaofficial/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/sombabaofficial/LeetCode/tree/master/0016-3sum-closest) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/sombabaofficial/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 <!---LeetCode Topics End-->
