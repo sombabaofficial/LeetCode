@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/sombabaofficial/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sombabaofficial/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sombabaofficial/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sombabaofficial/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sombabaofficial/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sombabaofficial/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/sombabaofficial/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sombabaofficial/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Stack
 |  |
 | ------- |
@@ -130,13 +132,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/sombabaofficial/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Graph Theory
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sombabaofficial/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sombabaofficial/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
