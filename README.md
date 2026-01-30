@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sombabaofficial/LeetCode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/sombabaofficial/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sombabaofficial/LeetCode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/sombabaofficial/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/sombabaofficial/LeetCode/tree/master/0217-contains-duplicate) |
 | [1200-minimum-absolute-difference](https://github.com/sombabaofficial/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sombabaofficial/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/sombabaofficial/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sombabaofficial/LeetCode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/sombabaofficial/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/sombabaofficial/LeetCode/tree/master/0217-contains-duplicate) |
 | [1200-minimum-absolute-difference](https://github.com/sombabaofficial/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sombabaofficial/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
