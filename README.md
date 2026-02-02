@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sombabaofficial/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sombabaofficial/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/sombabaofficial/LeetCode/tree/master/0493-reverse-pairs) |
+| [0506-relative-ranks](https://github.com/sombabaofficial/LeetCode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/sombabaofficial/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sombabaofficial/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0846-hand-of-straights](https://github.com/sombabaofficial/LeetCode/tree/master/0846-hand-of-straights) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sombabaofficial/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sombabaofficial/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sombabaofficial/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/sombabaofficial/LeetCode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/sombabaofficial/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/sombabaofficial/LeetCode/tree/master/0846-hand-of-straights) |
 | [1200-minimum-absolute-difference](https://github.com/sombabaofficial/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sombabaofficial/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sombabaofficial/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/sombabaofficial/LeetCode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/sombabaofficial/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sombabaofficial/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
