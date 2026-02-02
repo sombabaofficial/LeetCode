@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sombabaofficial/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/sombabaofficial/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2105-watering-plants-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2105-watering-plants-ii) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/sombabaofficial/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/sombabaofficial/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sombabaofficial/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/sombabaofficial/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -172,12 +173,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/sombabaofficial/LeetCode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/sombabaofficial/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sombabaofficial/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/sombabaofficial/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
 |  |
 | ------- |
 | [2105-watering-plants-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2105-watering-plants-ii) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/sombabaofficial/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
 |  |
