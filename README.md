@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sombabaofficial/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sombabaofficial/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sombabaofficial/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/sombabaofficial/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sombabaofficial/LeetCode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/sombabaofficial/LeetCode/tree/master/0493-reverse-pairs) |
 | [0506-relative-ranks](https://github.com/sombabaofficial/LeetCode/tree/master/0506-relative-ranks) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sombabaofficial/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sombabaofficial/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sombabaofficial/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/sombabaofficial/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/sombabaofficial/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sombabaofficial/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/sombabaofficial/LeetCode/tree/master/0506-relative-ranks) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sombabaofficial/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/sombabaofficial/LeetCode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/sombabaofficial/LeetCode/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/sombabaofficial/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sombabaofficial/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/sombabaofficial/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/sombabaofficial/LeetCode/tree/master/0767-reorganize-string) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sombabaofficial/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sombabaofficial/LeetCode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/sombabaofficial/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/sombabaofficial/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sombabaofficial/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3640-trionic-array-ii) |
