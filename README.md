@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/sombabaofficial/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sombabaofficial/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1338-reduce-array-size-to-the-half](https://github.com/sombabaofficial/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1748-sum-of-unique-elements](https://github.com/sombabaofficial/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sombabaofficial/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sombabaofficial/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/sombabaofficial/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/sombabaofficial/LeetCode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/sombabaofficial/LeetCode/tree/master/0846-hand-of-straights) |
 | [1338-reduce-array-size-to-the-half](https://github.com/sombabaofficial/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1748-sum-of-unique-elements](https://github.com/sombabaofficial/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sombabaofficial/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/sombabaofficial/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/sombabaofficial/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sombabaofficial/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sombabaofficial/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sombabaofficial/LeetCode/tree/master/0767-reorganize-string) |
+| [1748-sum-of-unique-elements](https://github.com/sombabaofficial/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [3713-longest-balanced-substring-i](https://github.com/sombabaofficial/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Quickselect
 |  |
