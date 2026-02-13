@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/sombabaofficial/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2105-watering-plants-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2105-watering-plants-ii) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/sombabaofficial/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2363-merge-similar-items](https://github.com/sombabaofficial/LeetCode/tree/master/2363-merge-similar-items) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/sombabaofficial/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/sombabaofficial/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sombabaofficial/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/sombabaofficial/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1748-sum-of-unique-elements](https://github.com/sombabaofficial/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sombabaofficial/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2363-merge-similar-items](https://github.com/sombabaofficial/LeetCode/tree/master/2363-merge-similar-items) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sombabaofficial/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/sombabaofficial/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/sombabaofficial/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sombabaofficial/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/sombabaofficial/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/sombabaofficial/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2363-merge-similar-items](https://github.com/sombabaofficial/LeetCode/tree/master/2363-merge-similar-items) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sombabaofficial/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sombabaofficial/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sombabaofficial/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sombabaofficial/LeetCode/tree/master/0493-reverse-pairs) |
+| [2363-merge-similar-items](https://github.com/sombabaofficial/LeetCode/tree/master/2363-merge-similar-items) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Sliding Window
 |  |
