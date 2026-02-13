@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/sombabaofficial/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/sombabaofficial/LeetCode/tree/master/0860-lemonade-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sombabaofficial/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sombabaofficial/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/sombabaofficial/LeetCode/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/sombabaofficial/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/sombabaofficial/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/sombabaofficial/LeetCode/tree/master/0402-remove-k-digits) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sombabaofficial/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sombabaofficial/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/sombabaofficial/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/sombabaofficial/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/sombabaofficial/LeetCode/tree/master/0402-remove-k-digits) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sombabaofficial/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/sombabaofficial/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
 |  |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sombabaofficial/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sombabaofficial/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sombabaofficial/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sombabaofficial/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sombabaofficial/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sombabaofficial/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sombabaofficial/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sombabaofficial/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -384,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sombabaofficial/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sombabaofficial/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sombabaofficial/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sombabaofficial/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
 |  |
 | ------- |
