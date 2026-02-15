@@ -12,13 +12,13 @@ public:
             for(int j=i+1;j<n;j++)
             {
                 double d = double((double)arr[i]/(double)arr[j]);
-                v.push_back({d,{i,j}});
+                v.push_back({d,{arr[i],arr[j]}});
             }
         }
 
         sort(v.begin(),v.end());
 
-        return {arr[v[k-1].second.first],arr[v[k-1].second.second]};
+        return {v[k-1].second.first,v[k-1].second.second};
 
 
 
