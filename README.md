@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sombabaofficial/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2104-sum-of-subarray-ranges](https://github.com/sombabaofficial/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2105-watering-plants-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2105-watering-plants-ii) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/sombabaofficial/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/sombabaofficial/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2363-merge-similar-items](https://github.com/sombabaofficial/LeetCode/tree/master/2363-merge-similar-items) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/sombabaofficial/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sombabaofficial/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sombabaofficial/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sombabaofficial/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/sombabaofficial/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2363-merge-similar-items](https://github.com/sombabaofficial/LeetCode/tree/master/2363-merge-similar-items) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sombabaofficial/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/sombabaofficial/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sombabaofficial/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sombabaofficial/LeetCode/tree/master/0767-reorganize-string) |
 | [1748-sum-of-unique-elements](https://github.com/sombabaofficial/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/sombabaofficial/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3713-longest-balanced-substring-i](https://github.com/sombabaofficial/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Quickselect
 |  |
