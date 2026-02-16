@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sombabaofficial/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sombabaofficial/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sombabaofficial/LeetCode/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/sombabaofficial/LeetCode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/sombabaofficial/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sombabaofficial/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sombabaofficial/LeetCode/tree/master/0056-merge-intervals) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sombabaofficial/LeetCode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/sombabaofficial/LeetCode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/sombabaofficial/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/sombabaofficial/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sombabaofficial/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
