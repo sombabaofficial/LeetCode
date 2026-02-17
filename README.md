@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/sombabaofficial/LeetCode/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/sombabaofficial/LeetCode/tree/master/0401-binary-watch) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sombabaofficial/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Linked List
 |  |
@@ -461,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/sombabaofficial/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sombabaofficial/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sombabaofficial/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/sombabaofficial/LeetCode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
