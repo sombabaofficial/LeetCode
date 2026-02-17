@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/sombabaofficial/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sombabaofficial/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/sombabaofficial/LeetCode/tree/master/1046-last-stone-weight) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/sombabaofficial/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/sombabaofficial/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/sombabaofficial/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sombabaofficial/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sombabaofficial/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sombabaofficial/LeetCode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/sombabaofficial/LeetCode/tree/master/0846-hand-of-straights) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/sombabaofficial/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/sombabaofficial/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1338-reduce-array-size-to-the-half](https://github.com/sombabaofficial/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sombabaofficial/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sombabaofficial/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/sombabaofficial/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sombabaofficial/LeetCode/tree/master/0767-reorganize-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/sombabaofficial/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1405-longest-happy-string](https://github.com/sombabaofficial/LeetCode/tree/master/1405-longest-happy-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sombabaofficial/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sombabaofficial/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sombabaofficial/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sombabaofficial/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sombabaofficial/LeetCode/tree/master/0767-reorganize-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/sombabaofficial/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1748-sum-of-unique-elements](https://github.com/sombabaofficial/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sombabaofficial/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sombabaofficial/LeetCode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
