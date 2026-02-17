@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/sombabaofficial/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sombabaofficial/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/sombabaofficial/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/sombabaofficial/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sombabaofficial/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/sombabaofficial/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/sombabaofficial/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3713-longest-balanced-substring-i](https://github.com/sombabaofficial/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3798-largest-even-number](https://github.com/sombabaofficial/LeetCode/tree/master/3798-largest-even-number) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sombabaofficial/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/sombabaofficial/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/sombabaofficial/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/sombabaofficial/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Math
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sombabaofficial/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/sombabaofficial/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/sombabaofficial/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/sombabaofficial/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Binary Search
 |  |
 | ------- |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/sombabaofficial/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sombabaofficial/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/sombabaofficial/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
 |  |
