@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/sombabaofficial/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0973-k-closest-points-to-origin](https://github.com/sombabaofficial/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sombabaofficial/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/sombabaofficial/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sombabaofficial/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Geometry
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/sombabaofficial/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/sombabaofficial/LeetCode/tree/master/0868-binary-gap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sombabaofficial/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sombabaofficial/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sombabaofficial/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Linked List
 |  |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sombabaofficial/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2105-watering-plants-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2105-watering-plants-ii) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/sombabaofficial/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sombabaofficial/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
