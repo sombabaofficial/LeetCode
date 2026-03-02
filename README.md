@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sombabaofficial/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sombabaofficial/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/sombabaofficial/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sombabaofficial/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sombabaofficial/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/sombabaofficial/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sombabaofficial/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/sombabaofficial/LeetCode/tree/master/0860-lemonade-change) |
 | [1338-reduce-array-size-to-the-half](https://github.com/sombabaofficial/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1405-longest-happy-string](https://github.com/sombabaofficial/LeetCode/tree/master/1405-longest-happy-string) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sombabaofficial/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sombabaofficial/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sombabaofficial/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sombabaofficial/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sombabaofficial/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sombabaofficial/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sombabaofficial/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sombabaofficial/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/sombabaofficial/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/sombabaofficial/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
