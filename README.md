@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sombabaofficial/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/sombabaofficial/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sombabaofficial/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sombabaofficial/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/sombabaofficial/LeetCode/tree/master/3379-transformed-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sombabaofficial/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/sombabaofficial/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sombabaofficial/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sombabaofficial/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3848-check-digitorial-permutation](https://github.com/sombabaofficial/LeetCode/tree/master/3848-check-digitorial-permutation) |
 ## Geometry
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/sombabaofficial/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sombabaofficial/LeetCode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/sombabaofficial/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sombabaofficial/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sombabaofficial/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sombabaofficial/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sombabaofficial/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sombabaofficial/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sombabaofficial/LeetCode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/sombabaofficial/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sombabaofficial/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
 |  |
