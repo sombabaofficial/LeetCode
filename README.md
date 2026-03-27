@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sombabaofficial/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sombabaofficial/LeetCode/tree/master/0767-reorganize-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sombabaofficial/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sombabaofficial/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1370-increasing-decreasing-string](https://github.com/sombabaofficial/LeetCode/tree/master/1370-increasing-decreasing-string) |
 | [1405-longest-happy-string](https://github.com/sombabaofficial/LeetCode/tree/master/1405-longest-happy-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sombabaofficial/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sombabaofficial/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sombabaofficial/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sombabaofficial/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sombabaofficial/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sombabaofficial/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
