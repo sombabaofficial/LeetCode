@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sombabaofficial/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2363-merge-similar-items](https://github.com/sombabaofficial/LeetCode/tree/master/2363-merge-similar-items) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sombabaofficial/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/sombabaofficial/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/sombabaofficial/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sombabaofficial/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/sombabaofficial/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2363-merge-similar-items](https://github.com/sombabaofficial/LeetCode/tree/master/2363-merge-similar-items) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sombabaofficial/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sombabaofficial/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sombabaofficial/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sombabaofficial/LeetCode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sombabaofficial/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sombabaofficial/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2000-reverse-prefix-of-word](https://github.com/sombabaofficial/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sombabaofficial/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sombabaofficial/LeetCode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
