@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sombabaofficial/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sombabaofficial/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sombabaofficial/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2105-watering-plants-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2105-watering-plants-ii) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/sombabaofficial/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sombabaofficial/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1622-fancy-sequence](https://github.com/sombabaofficial/LeetCode/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
