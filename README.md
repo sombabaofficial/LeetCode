@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/sombabaofficial/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/sombabaofficial/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2363-merge-similar-items](https://github.com/sombabaofficial/LeetCode/tree/master/2363-merge-similar-items) |
+| [2463-minimum-total-distance-traveled](https://github.com/sombabaofficial/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/sombabaofficial/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/sombabaofficial/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sombabaofficial/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/sombabaofficial/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/sombabaofficial/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2363-merge-similar-items](https://github.com/sombabaofficial/LeetCode/tree/master/2363-merge-similar-items) |
+| [2463-minimum-total-distance-traveled](https://github.com/sombabaofficial/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sombabaofficial/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sombabaofficial/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/sombabaofficial/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sombabaofficial/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sombabaofficial/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2463-minimum-total-distance-traveled](https://github.com/sombabaofficial/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3640-trionic-array-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3640-trionic-array-ii) |
