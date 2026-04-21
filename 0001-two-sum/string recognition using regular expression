@@ -1,0 +1,15 @@
+import re
+
+s = input("Enter string: ")
+
+if re.fullmatch(r'a*', s):
+    print("Matches: a*")
+
+if re.fullmatch(r'a*b+', s):
+    print("Matches: a*b+")
+
+if re.fullmatch(r'abb', s):
+    print("Matches: abb")
+
+if not (re.fullmatch(r'a*', s) or re.fullmatch(r'a*b+', s) or re.fullmatch(r'abb', s)):
+    print("No match")
