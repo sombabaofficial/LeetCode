@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sombabaofficial/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sombabaofficial/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sombabaofficial/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sombabaofficial/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sombabaofficial/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1748-sum-of-unique-elements](https://github.com/sombabaofficial/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sombabaofficial/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sombabaofficial/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sombabaofficial/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sombabaofficial/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sombabaofficial/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -623,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sombabaofficial/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sombabaofficial/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
