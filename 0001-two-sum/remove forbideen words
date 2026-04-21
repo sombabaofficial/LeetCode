@@ -1,0 +1,21 @@
+f = open("input.txt", "r")
+data = f.read()
+
+forbidden = ["bad", "ugly", "hate"]
+
+words = data.split()
+new_words = []
+removed = []
+
+for w in words:
+    if w.lower() in forbidden:
+        removed.append(w)
+    else:
+        new_words.append(w)
+
+f2 = open("output.txt", "w")
+f2.write(" ".join(new_words))
+f2.close()
+
+print("Removed words:", removed)
+print("Total removed:", len(removed))
