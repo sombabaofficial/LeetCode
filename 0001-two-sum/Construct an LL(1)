@@ -1,0 +1,49 @@
+# Q2. Construct an LL(1) Parser using a Given Grammar
+# Consider the grammar:
+# E → T E'
+# E' → + T E' | ε
+# T → F T'
+# T' → * F T' | ε
+# F → (E) | id
+
+
+def parse(input_string):
+    stack = ['$', 'E']
+    input_string = list(input_string) + ['$']
+
+    parsing_table = {
+        ('E', 'i'): ['T', "E'"],
+        ("E'", '+'): ['+', 'T', "E'"],
+        ("E'", ')'): ['ε'],
+        ("E'", '$'): ['ε'],
+        ('T', 'i'): ['F', "T'"],
+        ("T'", '+'): ['ε'],
+        ("T'", '*'): ['*', 'F', "T'"],
+        ("T'", ')'): ['ε'],
+        ("T'", '$'): ['ε'],
+        ('F', 'i'): ['i'],
+        ('F', '('): ['(', 'E', ')']
+    }
+
+    pointer = 0
+
+    while len(stack) > 0:
+        top = stack.pop()
+        current = input_string[pointer]
+
+        if top == current:
+            pointer += 1
+
+        elif (top, current) in parsing_table:
+            production = parsing_table[(top, current)]
+            if production != ['ε']:
+                stack.extend(reversed(production))
+
+        else:
+            print("Parsing Error")
+            return
+
+    print("String Accepted")
+
+
+parse("i+i*i")
