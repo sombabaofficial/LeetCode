@@ -1,0 +1,19 @@
+f = open("input.txt", "r")
+data = f.read()
+
+keywords = ['if', 'else', 'while', 'int', 'float', 'return']
+operators = ['+', '-', '*', '/', '=', '<', '>', '==', '!=', '<=', '>=']
+
+words = data.split()
+
+for w in words:
+    if w in keywords:
+        print(w, "-> Keyword")
+    elif w in operators:
+        print(w, "-> Operator")
+    elif w.isdigit():
+        print(w, "-> Number")
+    elif w.isalnum():
+        print(w, "-> Identifier")
+    else:
+        print(w, "-> Invalid")
