@@ -47,3 +47,5 @@ if stack == ['E'] and input_string[pointer-1] == '$':
     print("\nString Accepted")
 else:
     print("\nString Rejected")
+
+#id+id*id
