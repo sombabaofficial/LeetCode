@@ -1,0 +1,49 @@
+stack = []
+input_string = "id+id*id$"
+
+productions = {
+    "E+E": "E",
+    "E*E": "E",
+    "(E)": "E",
+    "id": "E"
+}
+
+def check_reduce():
+    global stack
+    stack_str = "".join(stack)
+
+    for rhs, lhs in productions.items():
+        if rhs in stack_str:
+            index = stack_str.find(rhs)
+
+            for _ in range(len(rhs)):
+                stack.pop(index)
+
+            stack.insert(index, lhs)
+
+            print("Reduce:", rhs, "->", lhs)
+            print("Stack:", stack)
+            return True
+
+    return False
+
+
+pointer = 0
+
+print("Input String:", input_string)
+print("\nStack\tInput\tAction")
+
+while pointer < len(input_string):
+    stack.append(input_string[pointer])
+    pointer += 1
+
+    print("".join(stack), "\t", input_string[pointer:], "\tShift")
+
+    while check_reduce():
+        pass
+
+
+if stack == ['E'] and input_string[pointer-1] == '$':
+    print("\nString Accepted")
+else:
+    print("\nString Rejected")
