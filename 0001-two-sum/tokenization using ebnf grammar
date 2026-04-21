@@ -3,24 +3,22 @@ from lark import Lark
 grammar = r"""
 ?start: statement+
 
-statement: IDENTIFIER "=" expr ";"
+statement: (KEYWORD)? IDENTIFIER "=" expr ";"
 
 ?expr: term (OP term)*
 
 ?term: NUMBER | IDENTIFIER
 
-KEYWORD: "int" | "float" | "if" | "else" | "while" | "return"
+KEYWORD.2: "int" | "float" | "if" | "else" | "while" | "return"
 
 IDENTIFIER: /[a-zA-Z_][a-zA-Z0-9_]*/
 
 NUMBER: /\d+(\.\d+)?/
 
 OP: "+" | "-" | "*" | "/" | "==" | "!=" | "<" | ">" | "<=" | ">="
-
 DELIM: "(" | ")" | "{" | "}" | ";" | ","
 
 %ignore WS
-
 WS: /[ \t\n]+/
 """
 
