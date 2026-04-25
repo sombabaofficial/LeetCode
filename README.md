@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sombabaofficial/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sombabaofficial/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/sombabaofficial/LeetCode/tree/master/3379-transformed-array) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sombabaofficial/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/sombabaofficial/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sombabaofficial/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sombabaofficial/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/sombabaofficial/LeetCode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sombabaofficial/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sombabaofficial/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sombabaofficial/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Enumeration
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/sombabaofficial/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sombabaofficial/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sombabaofficial/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sombabaofficial/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sombabaofficial/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3848-check-digitorial-permutation](https://github.com/sombabaofficial/LeetCode/tree/master/3848-check-digitorial-permutation) |
 ## Geometry
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/sombabaofficial/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sombabaofficial/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sombabaofficial/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Greedy
 |  |
 | ------- |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sombabaofficial/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sombabaofficial/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sombabaofficial/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sombabaofficial/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/sombabaofficial/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sombabaofficial/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
