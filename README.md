@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sombabaofficial/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/sombabaofficial/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sombabaofficial/LeetCode/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/sombabaofficial/LeetCode/tree/master/0796-rotate-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sombabaofficial/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sombabaofficial/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1370-increasing-decreasing-string](https://github.com/sombabaofficial/LeetCode/tree/master/1370-increasing-decreasing-string) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/sombabaofficial/LeetCode/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sombabaofficial/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Union-Find
 |  |
