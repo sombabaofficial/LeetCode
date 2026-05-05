@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sombabaofficial/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sombabaofficial/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sombabaofficial/LeetCode/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/sombabaofficial/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sombabaofficial/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sombabaofficial/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sombabaofficial/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/sombabaofficial/LeetCode/tree/master/0061-rotate-list) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
 |  |
