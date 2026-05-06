@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sombabaofficial/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sombabaofficial/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1748-sum-of-unique-elements](https://github.com/sombabaofficial/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1861-rotating-the-box](https://github.com/sombabaofficial/LeetCode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sombabaofficial/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sombabaofficial/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sombabaofficial/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sombabaofficial/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/sombabaofficial/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sombabaofficial/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1861-rotating-the-box](https://github.com/sombabaofficial/LeetCode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sombabaofficial/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/sombabaofficial/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2105-watering-plants-ii](https://github.com/sombabaofficial/LeetCode/tree/master/2105-watering-plants-ii) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/sombabaofficial/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sombabaofficial/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sombabaofficial/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/sombabaofficial/LeetCode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sombabaofficial/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sombabaofficial/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2906-construct-product-matrix](https://github.com/sombabaofficial/LeetCode/tree/master/2906-construct-product-matrix) |
