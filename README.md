@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/sombabaofficial/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sombabaofficial/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sombabaofficial/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/sombabaofficial/LeetCode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3640-trionic-array-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/sombabaofficial/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sombabaofficial/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/sombabaofficial/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sombabaofficial/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sombabaofficial/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sombabaofficial/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sombabaofficial/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sombabaofficial/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sombabaofficial/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3848-check-digitorial-permutation](https://github.com/sombabaofficial/LeetCode/tree/master/3848-check-digitorial-permutation) |
 ## Geometry
@@ -669,4 +672,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sombabaofficial/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sombabaofficial/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sombabaofficial/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sombabaofficial/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
