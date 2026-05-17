@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/sombabaofficial/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/sombabaofficial/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sombabaofficial/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1306-jump-game-iii](https://github.com/sombabaofficial/LeetCode/tree/master/1306-jump-game-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sombabaofficial/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/sombabaofficial/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sombabaofficial/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sombabaofficial/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sombabaofficial/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sombabaofficial/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1306-jump-game-iii](https://github.com/sombabaofficial/LeetCode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sombabaofficial/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sombabaofficial/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sombabaofficial/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/sombabaofficial/LeetCode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sombabaofficial/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sombabaofficial/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sombabaofficial/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
