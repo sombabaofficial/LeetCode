@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/sombabaofficial/LeetCode/tree/master/1306-jump-game-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sombabaofficial/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/sombabaofficial/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1345-jump-game-iv](https://github.com/sombabaofficial/LeetCode/tree/master/1345-jump-game-iv) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sombabaofficial/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sombabaofficial/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sombabaofficial/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sombabaofficial/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/sombabaofficial/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1338-reduce-array-size-to-the-half](https://github.com/sombabaofficial/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1345-jump-game-iv](https://github.com/sombabaofficial/LeetCode/tree/master/1345-jump-game-iv) |
 | [1370-increasing-decreasing-string](https://github.com/sombabaofficial/LeetCode/tree/master/1370-increasing-decreasing-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sombabaofficial/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sombabaofficial/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/sombabaofficial/LeetCode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/sombabaofficial/LeetCode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sombabaofficial/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sombabaofficial/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sombabaofficial/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
