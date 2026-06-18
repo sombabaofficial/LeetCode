@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sombabaofficial/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3840-house-robber-v](https://github.com/sombabaofficial/LeetCode/tree/master/3840-house-robber-v) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sombabaofficial/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/sombabaofficial/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sombabaofficial/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sombabaofficial/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sombabaofficial/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sombabaofficial/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3840-house-robber-v](https://github.com/sombabaofficial/LeetCode/tree/master/3840-house-robber-v) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sombabaofficial/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Graph Theory
 |  |
 | ------- |
