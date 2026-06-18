@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/sombabaofficial/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sombabaofficial/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/sombabaofficial/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## String
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/sombabaofficial/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3798-largest-even-number](https://github.com/sombabaofficial/LeetCode/tree/master/3798-largest-even-number) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/sombabaofficial/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Stack
 |  |
 | ------- |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sombabaofficial/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sombabaofficial/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/sombabaofficial/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Linked List
 |  |
 | ------- |
@@ -707,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0401-binary-watch](https://github.com/sombabaofficial/LeetCode/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sombabaofficial/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/sombabaofficial/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Rolling Hash
 |  |
 | ------- |
