@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/sombabaofficial/LeetCode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sombabaofficial/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/sombabaofficial/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sombabaofficial/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sombabaofficial/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/sombabaofficial/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sombabaofficial/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sombabaofficial/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sombabaofficial/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/sombabaofficial/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sombabaofficial/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sombabaofficial/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sombabaofficial/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -613,10 +617,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/sombabaofficial/LeetCode/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/sombabaofficial/LeetCode/tree/master/3161-block-placement-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/sombabaofficial/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sombabaofficial/LeetCode/tree/master/0493-reverse-pairs) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bucket Sort
 |  |
 | ------- |
