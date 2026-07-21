@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/sombabaofficial/LeetCode/tree/master/1291-sequential-digits) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sombabaofficial/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sombabaofficial/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/sombabaofficial/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/sombabaofficial/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sombabaofficial/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/sombabaofficial/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/sombabaofficial/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sombabaofficial/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/sombabaofficial/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/sombabaofficial/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/sombabaofficial/LeetCode/tree/master/3713-longest-balanced-substring-i) |
