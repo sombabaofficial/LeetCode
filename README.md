@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sombabaofficial/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sombabaofficial/LeetCode/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/sombabaofficial/LeetCode/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sombabaofficial/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sombabaofficial/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sombabaofficial/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sombabaofficial/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/sombabaofficial/LeetCode/tree/master/0402-remove-k-digits) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sombabaofficial/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sombabaofficial/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sombabaofficial/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/sombabaofficial/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/sombabaofficial/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/sombabaofficial/LeetCode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/sombabaofficial/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/sombabaofficial/LeetCode/tree/master/0860-lemonade-change) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sombabaofficial/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/sombabaofficial/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1405-longest-happy-string](https://github.com/sombabaofficial/LeetCode/tree/master/1405-longest-happy-string) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sombabaofficial/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/sombabaofficial/LeetCode/tree/master/0402-remove-k-digits) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sombabaofficial/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sombabaofficial/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/sombabaofficial/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
 |  |
