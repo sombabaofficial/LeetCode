@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sombabaofficial/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/sombabaofficial/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/sombabaofficial/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sombabaofficial/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sombabaofficial/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sombabaofficial/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sombabaofficial/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/sombabaofficial/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sombabaofficial/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sombabaofficial/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sombabaofficial/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sombabaofficial/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sombabaofficial/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/sombabaofficial/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sombabaofficial/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/sombabaofficial/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Linked List
