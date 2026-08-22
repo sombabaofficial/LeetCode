@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sombabaofficial/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/sombabaofficial/LeetCode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/sombabaofficial/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/sombabaofficial/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sombabaofficial/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sombabaofficial/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/sombabaofficial/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/sombabaofficial/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/sombabaofficial/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sombabaofficial/LeetCode/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/sombabaofficial/LeetCode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/sombabaofficial/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sombabaofficial/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/sombabaofficial/LeetCode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/sombabaofficial/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sombabaofficial/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sombabaofficial/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
